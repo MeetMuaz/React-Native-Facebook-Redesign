@@ -44,9 +44,9 @@ export default function Post1() {
             </View>
             <Text style={{ fontSize: 16, color: '#2D3F7B', marginTop: 10 }}>Hey pals, guess what? 🎉 I've just wrapped up crafting these mind-blowing 3D wallpapers, drenched in the coolest of the cool colors! 🌈💎</Text>
             <View style={{ justifyContent: 'space-between', flexDirection: 'row', marginTop: 10 }}>
-                <Image source={require('../../assets/Post1.png')} style={{ width: 100, height: 200, borderRadius: 8 }} />
-                <Image source={require('../../assets/Post2.png')} style={{ width: 100, height: 200, borderRadius: 8 }} />
-                <Image source={require('../../assets/Post3.png')} style={{ width: 100, height: 200, borderRadius: 8 }} />
+                <Image source={require('../../assets/gradient-1.jpg')} style={{ width: 100, height: 200, borderRadius: 8 }} />
+                <Image source={require('../../assets/gradient-2.jpg')} style={{ width: 100, height: 200, borderRadius: 8 }} />
+                <Image source={require('../../assets/gradient-3.jpg')} style={{ width: 100, height: 200, borderRadius: 8 }} />
             </View>
             <Text style={{ color: '#99A1BE', fontSize: 9, marginTop: 10 }}>3.4k Comments . 46 Shares</Text>
             <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' }}>
@@ -63,7 +63,7 @@ export default function Post1() {
                 </View>
                 <View style={{ flexDirection: 'row', alignItems: 'center' }}>
                     <Text style={{ fontSize: 9, color: '#99A1BE' }}>Q&A with Mark & 361k others</Text>
-                    <Image source={require('../../assets/3Reaction.png')} style={{ marginLeft: 3 }} />
+                    <Image source={require('../../assets/reaction.png')} style={{ marginLeft: 3 }} />
                 </View>
             </View>
             <View style={{ marginTop: 10 }}>

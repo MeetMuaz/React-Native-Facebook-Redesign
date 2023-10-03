@@ -5,7 +5,7 @@ import mart from '../../storage/mart';
 
 const Component = ({ item }) => {
     return (
-        <TouchableOpacity style={{ flex: 1, margin: 8, height: 333, backgroundColor: 'lightblue', borderRadius: 14, backgroundColor: '#FFFFFF', padding: 7 }}>
+        <TouchableOpacity style={{ flex: 1, margin: 8, height: 333, borderRadius: 14, backgroundColor: '#FFFFFF', padding: 7 }}>
             <View style={{ backgroundColor: '#DBE4E7', height: 210, width: '100%', borderRadius: 16, justifyContent: 'center', alignItems: 'center', overflow: 'hidden' }}>
                 <Image source={item.image_uri} style={{ height: 150 }} resizeMode='contain' />
             </View>

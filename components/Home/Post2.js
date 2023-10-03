@@ -57,7 +57,7 @@ export default function Post2() {
                 </View>
                 <View style={{ flexDirection: 'row', alignItems: 'center' }}>
                     <Text style={{ fontSize: 9, color: '#99A1BE' }}>Will Byers & 216 others</Text>
-                    <Image source={require('../../assets/3Reaction.png')} style={{ marginLeft: 3 }} />
+                    <Image source={require('../../assets/reaction.png')} style={{ marginLeft: 3 }} />
                 </View>
             </View>
         </View >

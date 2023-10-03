@@ -61,7 +61,7 @@ export default function PinnedPost() {
                     </View>
                     <View style={{ flexDirection: 'row', alignItems: 'center' }}>
                         <Text style={{ fontSize: 9, color: '#99A1BE' }}>Rachel Podrez & 2k others</Text>
-                        <Image source={require('../../assets/3Reaction.png')} style={{ marginLeft: 3 }} />
+                        <Image source={require('../../assets/reaction.png')} style={{ marginLeft: 3 }} />
                     </View>
                 </View>
             </View >
