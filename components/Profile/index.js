@@ -1,0 +1,5 @@
+export { default as AboutMe } from './AboutMe'
+export { default as Country } from './Country'
+export { default as Event } from './Event'
+export { default as Friend } from './Friend'
+export { default as PinnedPost } from './PinnedPost'
